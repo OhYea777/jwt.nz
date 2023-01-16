@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="150" height="150" viewBox="0 0 150 150">
+  <g transform="matrix(1.28 0 0 1.28 75 75)">
+    <path style="stroke: rgb(56,248,167); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(240,219,79); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform="translate(0, 0)" d="M -58.41857 -58.41857 L 58.41857 -58.41857 L 58.41857 58.41857 L -58.41857 58.41857 z" stroke-linecap="round" />
+  </g>
+  <g transform="matrix(1.45 0 0 1.45 84.98 103)">
+    <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(50,51,48); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke" transform="translate(-87.32, -60.88)" d="M 65.512 84.998 C 74.192 84.998 80.142 80.378 80.142 70.228 L 80.142 36.768 L 70.342 36.768 L 70.342 70.088 C 70.342 74.988 68.312 76.248 65.092 76.248 C 61.732 76.248 60.332 73.938 58.792 71.208 L 50.812 76.038 C 53.122 80.938 57.672 84.998 65.512 84.998 Z M 100.442 84.368 L 110.242 84.368 L 110.242 45.378 L 123.822 45.378 L 123.822 36.768 L 86.862 36.768 L 86.862 45.378 L 100.442 45.378 Z" stroke-linecap="round" />
+  </g>
+</svg>
